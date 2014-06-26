@@ -1,0 +1,10 @@
+ftp://gd.tuwien.ac.at/opsys/linux/fedora/linux
+ftp://mirror.optus.net/epel
+ftp://mirror.optus.net/fedora/linux
+ftp://mirror.as24220.net/pub/epel
+ftp://mirror.as24220.net/pub/fedora/linux
+ftp://mirror.aarnet.edu.au/pub/epel
+ftp://mirror.aarnet.edu.au/pub/fedora/linux
+ftp://mirror.aarnet.edu.au/pub/fedora-secondary
+ftp://mirror.overthewire.com.au/pub/epel
+ftp://ftp.iinet.net.au/pub/fedora/linux

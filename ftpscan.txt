@@ -1,0 +1,186 @@
+
+Site gd.tuwien.ac.at 
+-rwxr-xr-x    1 ftp      ftp         17258 Oct 23  2009 GDSNeu-k.jpg
+lrwxrwxrwx    1 ftp      ftp            12 May 19  2010 X11 -> /gds/hci/X11
+lrwxrwxrwx    1 ftp      ftp            32 Dec 01  2010 apache -> infosys/servers/http/apache/dist
+drwxrwxr-x    3 ftp      ftp          4096 Nov 23  2009 comp
+drwxr-xr-x    5 ftp      ftp          4096 Nov 11  2010 db
+-rwxrwxr-x    1 ftp      ftp          1607 Feb 14  2013 disclaimer.html
+lrwxrwxrwx    1 ftp      ftp            16 Jun 19  2008 donation.html -> .i/donation.html
+lrwxrwxrwx    1 ftp      ftp            11 Sep 10  2004 dos -> /gds/pc/dos
+drwxr-xr-x    4 ftp      ftp          4096 Mar 31  2010 faqs
+-rwxr-xr-x    1 ftp      ftp          2430 Feb 24  2003 favicon.ico
+lrwxrwxrwx    1 ftp      ftp             1 Sep 10  2004 gds -> .
+drwxrwxrwx   11 ftp      ftp          4096 Feb 08  2006 gnu
+drwxr-xr-x   19 ftp      ftp          4096 Apr 30  2010 graphics
+drwxrwxr-x    8 ftp      ftp          4096 May 19  2010 hci
+drwxrwxr-x   11 ftp      ftp          4096 Jan 07  2010 icon
+lrwxrwxrwx    1 ftp      ftp            17 Feb 14  2013 impressum.html -> .i/impressum.html
+drwxr-xr-x   14 ftp      ftp          4096 Apr 30  2010 infosys
+lrwxrwxrwx    1 ftp      ftp            12 Sep 10  2004 kde -> /gds/hci/kde
+drwxrwxr-x   12 ftp      ftp          4096 Nov 29  2009 languages
+lrwxrwxrwx    1 ftp      ftp            16 Sep 10  2004 linux -> /gds/opsys/linux
+drwx------    2 ftp      ftp         16384 May 31  2012 lost+found
+-rw-rw-r--    1 ftp      ftp      113330387 Jun 24 02:16 ls-lR.gz
+drwxrwxr-x    6 ftp      ftp          4096 Dec 05  2010 office
+drwxr-xr-x    7 ftp      ftp          4096 Jun 02  2012 opsys
+drwxrwxr-x    5 ftp      ftp          4096 Nov 10  2010 pc
+drwxr-xr-x    3 ftp      ftp          4096 Nov 10  2010 platform
+drwxr-xr-x    3 ftp      ftp          4096 Feb 14  2013 privacy
+-rwxrwxr-x    1 ftp      ftp          1524 Feb 14  2013 privacy-policy.html
+drwxr-xr-x    2 ftp      ftp          4096 Jan 04  2011 pub
+drwxr-xr-x    5 ftp      ftp          4096 Jul 26  2010 publishing
+drwxrwxr-x    4 ftp      ftp          4096 Nov 24  2009 soc
+drwxr-xr-x    3 ftp      ftp          4096 Apr 30  2010 softeng
+drwxrwxr-x   10 ftp      ftp          4096 Nov 23  2009 study
+lrwxrwxrwx    1 ftp      ftp            12 Sep 27  2010 tdf -> ./office/tdf
+lrwxrwxrwx    1 ftp      ftp            31 Nov 30  2009 ubuntu -> /gds/opsys/linux/ubuntu/archive
+drwxrwxr-x   13 ftp      ftp          4096 Mar 09  2004 utils
+lrwxrwxrwx    1 ftp      ftp            20 Jul 27  2010 visual -> /gds/graphics/visual
+-rw-r--r--    1 ftp      ftp           852 Feb 14  2013 welcome.txt
+drwxr-xr-x    7 ftp      ftp          4096 Nov 15  2010 windows
+drwxr-xr-x    6 ftp      ftp          4096 Apr 14  2010 wul
+
+Site mirror.as24220.net 
+drwxr-xr-x  36 ftp      ftp          4096 Mar 12 12:51 pub
+-rw-r--r--   1 ftp      ftp             0 Jul 13  2006 sitemap.html
+-rw-r--r--   1 ftp      ftp             0 Jul 13  2006 sitemap.rss
+-rw-r--r--   1 ftp      ftp             0 Jul 13  2006 sitemap.txt
+-rw-r--r--   1 ftp      ftp             0 Jan 29  2006 sitemap.xml
+-rw-r--r--   1 ftp      ftp             0 Jan 29  2006 sitemap.xml.gz
+
+Site mirror.as24220.net 
+drwxr-xr-x  36 ftp      ftp          4096 Mar 12 12:51 pub
+-rw-r--r--   1 ftp      ftp             0 Jul 13  2006 sitemap.html
+-rw-r--r--   1 ftp      ftp             0 Jul 13  2006 sitemap.rss
+-rw-r--r--   1 ftp      ftp             0 Jul 13  2006 sitemap.txt
+-rw-r--r--   1 ftp      ftp             0 Jan 29  2006 sitemap.xml
+-rw-r--r--   1 ftp      ftp             0 Jan 29  2006 sitemap.xml.gz
+
+Site mirror.optus.net 
+lrwxrwxrwx   1 root     root           18 Aug 18  2011 archlinux -> .mirror2/archlinux
+lrwxrwxrwx   1 root     root           15 Aug 26  2013 centos -> .mirror2/centos
+lrwxrwxrwx   1 root     root           13 Aug 15  2011 CPAN -> .mirror2/CPAN
+lrwxrwxrwx   1 mirror   mirror         13 Aug 15  2011 crux -> .mirror2/crux
+lrwxrwxrwx   1 mirror   mirror         17 Aug 15  2011 crux-ppc -> .mirror2/crux-ppc
+drwxr-xr-x   9 mirror   mirror       4096 Jun 25 09:26 debian
+drwxr-xr-x   5 mirror   mirror       4096 May  6 23:30 debian-cd
+lrwxrwxrwx   1 root     root           14 Nov 13  2013 debian-multimedia -> deb-multimedia
+drwxrwxr-x   6 mirror   mirror       4096 Dec 16  2013 deb-multimedia
+lrwxrwxrwx   1 root     root           18 Aug 26  2013 downloads -> .mirror2/downloads
+lrwxrwxrwx   1 root     root           21 Sep  6  2013 dragonflybsd -> .mirror2/dragonflybsd
+lrwxrwxrwx   1 root     root           13 Aug 18  2011 epel -> .mirror2/epel
+drwxr-xr-x   3 mirror   mirror       4096 Jun 24 23:27 fedora
+lrwxrwxrwx   1 root     root           12 Aug 16  2011 gnu -> .mirror2/gnu
+lrwxrwxrwx   1 mirror   mirror         18 Jun 15  2011 linuxmint -> .mirror1/linuxmint
+-rw-r--r--   1 mirror   mirror   102400000 Jan 21  2013 maya_100M
+lrwxrwxrwx   1 root     root           17 Aug 24  2011 opensuse -> .mirror2/opensuse
+lrwxrwxrwx   1 root     root           15 Aug 27  2013 openvz -> .mirror2/openvz
+lrwxrwxrwx   1 root     root           17 Aug 27  2013 openwall -> .mirror2/openwall
+lrwxrwxrwx   1 root     root           16 Sep 16  2013 pfSense -> .mirror2/pfSense
+drwxr-xr-x   2 mirror   mirror       4096 Sep 10  2013 pub
+lrwxrwxrwx   1 root     root           18 Feb  6  2013 raspbian -> .mirror2/raspbian/
+lrwxrwxrwx   1 mirror   mirror         15 Jun 15  2011 redhat -> .mirror1/redhat
+-rw-r--r--   1 mirror   mirror         26 Jul  9  2009 robots.txt
+lrwxrwxrwx   1 root     root           16 Aug 19  2011 sabayon -> .mirror2/sabayon
+lrwxrwxrwx   1 mirror   mirror         19 Jun 15  2011 scientific -> .mirror1/scientific
+lrwxrwxrwx   1 root     root           20 Aug  7  2013 sunfreeware -> .mirror2/sunfreeware
+lrwxrwxrwx   1 root     root           15 Aug 28  2011 ubuntu -> .mirror2/ubuntu
+lrwxrwxrwx   1 root     root           24 Oct 24  2011 ubuntu-releases -> .mirror2/ubuntu-releases
+lrwxrwxrwx   1 mirror   mirror         13 Aug 15  2011 xbmc -> .mirror2/xbmc
+
+Site mirror.optus.net 
+lrwxrwxrwx   1 root     root           18 Aug 18  2011 archlinux -> .mirror2/archlinux
+lrwxrwxrwx   1 root     root           15 Aug 26  2013 centos -> .mirror2/centos
+lrwxrwxrwx   1 root     root           13 Aug 15  2011 CPAN -> .mirror2/CPAN
+lrwxrwxrwx   1 mirror   mirror         13 Aug 15  2011 crux -> .mirror2/crux
+lrwxrwxrwx   1 mirror   mirror         17 Aug 15  2011 crux-ppc -> .mirror2/crux-ppc
+drwxr-xr-x   9 mirror   mirror       4096 Jun 25 09:26 debian
+drwxr-xr-x   5 mirror   mirror       4096 May  6 23:30 debian-cd
+lrwxrwxrwx   1 root     root           14 Nov 13  2013 debian-multimedia -> deb-multimedia
+drwxrwxr-x   6 mirror   mirror       4096 Dec 16  2013 deb-multimedia
+lrwxrwxrwx   1 root     root           18 Aug 26  2013 downloads -> .mirror2/downloads
+lrwxrwxrwx   1 root     root           21 Sep  6  2013 dragonflybsd -> .mirror2/dragonflybsd
+lrwxrwxrwx   1 root     root           13 Aug 18  2011 epel -> .mirror2/epel
+drwxr-xr-x   3 mirror   mirror       4096 Jun 24 23:27 fedora
+lrwxrwxrwx   1 root     root           12 Aug 16  2011 gnu -> .mirror2/gnu
+lrwxrwxrwx   1 mirror   mirror         18 Jun 15  2011 linuxmint -> .mirror1/linuxmint
+-rw-r--r--   1 mirror   mirror   102400000 Jan 21  2013 maya_100M
+lrwxrwxrwx   1 root     root           17 Aug 24  2011 opensuse -> .mirror2/opensuse
+lrwxrwxrwx   1 root     root           15 Aug 27  2013 openvz -> .mirror2/openvz
+lrwxrwxrwx   1 root     root           17 Aug 27  2013 openwall -> .mirror2/openwall
+lrwxrwxrwx   1 root     root           16 Sep 16  2013 pfSense -> .mirror2/pfSense
+drwxr-xr-x   2 mirror   mirror       4096 Sep 10  2013 pub
+lrwxrwxrwx   1 root     root           18 Feb  6  2013 raspbian -> .mirror2/raspbian/
+lrwxrwxrwx   1 mirror   mirror         15 Jun 15  2011 redhat -> .mirror1/redhat
+-rw-r--r--   1 mirror   mirror         26 Jul  9  2009 robots.txt
+lrwxrwxrwx   1 root     root           16 Aug 19  2011 sabayon -> .mirror2/sabayon
+lrwxrwxrwx   1 mirror   mirror         19 Jun 15  2011 scientific -> .mirror1/scientific
+lrwxrwxrwx   1 root     root           20 Aug  7  2013 sunfreeware -> .mirror2/sunfreeware
+lrwxrwxrwx   1 root     root           15 Aug 28  2011 ubuntu -> .mirror2/ubuntu
+lrwxrwxrwx   1 root     root           24 Oct 24  2011 ubuntu-releases -> .mirror2/ubuntu-releases
+lrwxrwxrwx   1 mirror   mirror         13 Aug 15  2011 xbmc -> .mirror2/xbmc
+
+Site mirror.aarnet.edu.au 
+lrwxrwxrwx    1 ftp      ftp            10 Aug 09  2010 debian -> pub/debian
+drwxr-xr-x   97 ftp      ftp          4096 Jun 23 03:59 pub
+
+Site mirror.aarnet.edu.au 
+lrwxrwxrwx    1 ftp      ftp            10 Aug 09  2010 debian -> pub/debian
+drwxr-xr-x   97 ftp      ftp          4096 Jun 23 03:59 pub
+
+Site mirror.aarnet.edu.au 
+lrwxrwxrwx    1 ftp      ftp            10 Aug 09  2010 debian -> pub/debian
+drwxr-xr-x   97 ftp      ftp          4096 Jun 23 03:59 pub
+
+Site ftp.iinet.net.au 
+-rw-r--r--   1 ftp      ftp       1048576 Sep 23  2003 1mb.dat
+-rw-r--r--   1 ftp      ftp      65535000 Oct  7  2009 2test.out
+-rw-r--r--   1 ftp      ftp      5000000000 Feb 15  2012 5000meg.test
+-rw-r--r--   1 ftp      ftp      13631488 Mar 17  2004 adsl.test
+-rw-r--r--   1 ftp      ftp      20971520 Apr 22  2005 adsl.test2
+lrwxrwxrwx   1 ftp      ftp            16 Sep 15  2008 debian -> pub/linux/debian
+drwxr-xr-x  14 ftp      ftp            14 Aug 17  2011 download_vault
+drwxr-xr-x   3 ftp      ftp             3 Oct 12  2012 games
+lrwxrwxrwx   1 ftp      ftp             9 Sep 15  2008 linux -> pub/linux
+-rw-r--r--   1 ftp      ftp      54733085 Jun 25 04:01 ls-R.gz
+-rw-r--r--   1 ftp      ftp      15000000000 Jan 31 01:48 nbn-test.dat
+-rw-r--r--   1 ftp      ftp            18 Sep 16  2009 notfound.html
+drwxr-xr-x  63 ftp      ftp            66 Jun 25 05:32 pub
+-rw-r--r--   1 ftp      ftp           191 May 19  2006 rsyncd.motd
+-rw-r--r--   1 ftp      ftp      100000000 Sep 25  2008 test100MB.dat
+lrwxrwxrwx   1 ftp      ftp            16 May  2  2012 test100MB.dat.special -> ../test100MB.dat
+-rw-r--r--   1 ftp      ftp      10000000 Sep 25  2008 test10MB.dat
+lrwxrwxrwx   1 ftp      ftp            25 Oct  1  2009 test10MB_b.dat -> ../speedtest/test10MB.dat
+-rw-r--r--   1 ftp      ftp      500000000 Nov 17  2008 test500MB.dat
+-rw-r--r--   1 ftp      ftp      50000000 Sep 26  2008 test50MB.dat
+-rw-r--r--   1 ftp      ftp           346 Jan 12  2009 welcome.msg
+lrwxrwxrwx   1 ftp      ftp            11 Sep 15  2008 welcome.txt -> welcome.msg
+
+Site mirror.overthewire.com.au 
+-rw-r--r--    1 0        0        104857600 Dec 23  2013 100MB.bin
+-rw-r--r--    1 0        0        1048576000 Dec 23  2013 1GB.bin
+-rw-r--r--    1 0        0        2147479552 Dec 23  2013 2GB.bin
+-rw-r--r--    1 0        0        524288000 Dec 23  2013 500MB.bin
+drwxrwxr-x  162 500      500          4096 Jun 23 12:22 apache
+drwxrwxr-x   37 500      500          4096 Jun 25 10:15 centos
+drwxrwsr-x    5 500      500          4096 May 23 14:55 cygwin
+drwxr-xr-x    8 500      500          4096 Jun 25 11:17 debian
+drwxr-xr-x    5 500      500          4096 May 06 23:30 debian-cd
+drwxrwxr-x    6 500      500          4096 Dec 16  2013 debian-multimedia
+drwxrwsr-x    6 500      500          4096 Jun 23 10:42 debian-security
+drwxrwsr-x    7 500      500          4096 Jun 24 19:37 epel
+-rw-r--r--    1 0        0            4150 Dec 23  2013 favicon.ico
+drwxr-xr-x    6 500      500          4096 Mar 28  2011 gentoo
+drwxr-xr-x  169 500      500          4096 Jun 25 12:31 gentoo-portage
+lrwxrwxrwx    1 0        0              15 Jan 12 05:03 motd.txt -> /etc/rsync.motd
+drwxr-xr-x    2 500      500         12288 Jun 14 22:33 openelec
+drwxr-xr-x    6 500      500          4096 Jun 21 20:19 proxmox
+lrwxrwxrwx    1 0        0              11 Dec 16  2013 pub -> /mnt/mirror
+drwxr-sr-x    5 500      500          4096 Jun 25 06:00 putty
+drwxr-xr-x    8 500      500          4096 Aug 24  2013 raspbian
+-rw-r--r--    1 500      500         68476 Jun 25 13:30 traffic.png
+drwxr-xr-x    6 500      500          4096 Jun 25 11:45 ubuntu
+drwxr-xr-x   12 500      500          4096 Jun 25 10:09 ubuntu-releases
+drwxrwxr-x    9 500      500          4096 Jun 25 12:05 xbmc
+
